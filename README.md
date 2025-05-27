@@ -11,9 +11,10 @@ Ainda estou descobrindo minha área dentro da tecnologia, mas estou aprendendo c
 
 ### 📚 O que estou fazendo agora:
 
-- ✅ Estudando lógica de programação com 100 exercícios do Curso em Vídeo  
+- ✅ Estudando lógica de programação com 100 exercícios do Curso em Vídeo
+- ✅ Cursando Desenvolvimento Front End no Senac Santos
 - 🧠 Revisando conteúdos base (algoritmos, estrutura de dados, etc.)  
-- 💻 Explorando linguagens como Python, C e JavaScript    
+- 💻 Explorando linguagens como Python, C, JavaScript e etc.
 - 🧩 Começando um repositório com minha evolução
 
 ---
